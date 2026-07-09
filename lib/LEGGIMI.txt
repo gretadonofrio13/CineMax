@@ -1,0 +1,1 @@
+Cartella vuota: il progetto non usa librerie esterne (solo la libreria standard di Java).

@@ -1,0 +1,6 @@
+Progetto CineMax - Laboratorio Interdisciplinare A, 2025/2026
+
+Cognome    Nome    Matricola   Sede (CO)
+-------    -----   ---------
+D'Onofrio  Greta    766016
+Tricarico  Nicolo'  767095
