@@ -1,0 +1,20 @@
+ CineMax - Sistema di gestione di un piccolo cinema monosala (200 posti)
+ Laboratorio Interdisciplinare A - a.a. 2025/2026
+
+
+UTENTI PREDEFINITI (file data/utenti.csv)
+--------------------------------------------
+  Le password sono memorizzate cifrate (hash SHA-256). Le credenziali
+  in chiaro degli utenti predefiniti sono:
+
+    Proiezionisti:  lbianchi / proiezione1
+                    gverdi   / proiezione2
+    Bigliettai:     mferrari / biglietto1
+                    scolombo / biglietto2
+                    pmoretti / biglietto3
+                    eriva    / biglietto4
+                    agalli   / biglietto5
+    Cliente demo:   crossi   / cliente1
+
+  I nuovi clienti possono registrarsi dal menu' iniziale
+  dell'applicazione (opzione 2).
