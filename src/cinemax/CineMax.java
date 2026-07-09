@@ -92,7 +92,7 @@ public class CineMax {
             System.out.println("Errore nell'accesso ai file dei dati nella cartella '"
                     + cartellaDati + "': " + e.getMessage());
             System.out.println("Verificare di eseguire l'applicazione dalla cartella "
-                    + "radice del progetto (si veda il utentiPredefiniti.txt).");
+                    + "radice del progetto (si veda il UtentiPredefiniti.txt).");
         }
     }
 
