@@ -1,1 +1,0 @@
-Generare qui la Javadoc con il comando indicato al punto 6 del README.txt.

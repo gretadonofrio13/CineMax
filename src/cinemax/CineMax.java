@@ -96,9 +96,8 @@ public class CineMax {
         }
     }
 
-    // ------------------------------------------------------------------
     // Menu' iniziale e accesso
-    // ------------------------------------------------------------------
+
 
     /**
      * Mostra il menu' iniziale dell'applicazione, da cui e' possibile
@@ -184,9 +183,7 @@ public class CineMax {
         }
     }
 
-    // ------------------------------------------------------------------
     // Menu' guest (login non necessario)
-    // ------------------------------------------------------------------
 
     /**
      * Gestisce l'accesso come utente guest: come da specifica, viene
@@ -222,9 +219,7 @@ public class CineMax {
         }
     }
 
-    // ------------------------------------------------------------------
     // Funzionalita' di consultazione delle proiezioni
-    // ------------------------------------------------------------------
 
     /**
      * Realizza la funzionalita' di ricerca
@@ -326,9 +321,7 @@ public class CineMax {
         }
     }
 
-    // ------------------------------------------------------------------
     // Menu' del cliente
-    // ------------------------------------------------------------------
 
     /**
      * Mostra il menu' del cliente autenticato, con le funzionalita'
@@ -554,9 +547,7 @@ public class CineMax {
         }
     }
 
-    // ------------------------------------------------------------------
     // Menu' del proiezionista
-    // ------------------------------------------------------------------
 
     /**
      * Mostra il menu' del proiezionista autenticato, con le
@@ -697,9 +688,7 @@ public class CineMax {
         }
     }
 
-    // ------------------------------------------------------------------
     // Menu' del bigliettaio
-    // ------------------------------------------------------------------
 
     /**
      * Mostra il menu' del bigliettaio autenticato, con le
@@ -845,9 +834,7 @@ public class CineMax {
                 + String.format("%.2f", p.getCostoTotale()) + " EUR");
     }
 
-    // ------------------------------------------------------------------
     // Funzioni di lettura e validazione dell'input da tastiera
-    // ------------------------------------------------------------------
 
     /**
      * Legge da tastiera una riga di testo non vuota, ripetendo la
